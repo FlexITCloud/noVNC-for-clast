@@ -1,6 +1,6 @@
 # French translations for noVNC package
 # Traductions françaises du paquet noVNC.
-# Copyright (C) 2021 The noVNC authors
+# Copyright (C) 2021 The noVNC Authors
 # This file is distributed under the same license as the noVNC package.
 # Jose <jose.matsuda@canada.ca>, 2021.
 # Lowxorx <lowxorx@lahan.fr>, 2022.
@@ -92,7 +92,7 @@ msgid "Keyboard"
 msgstr "Clavier"
 
 #: ../vnc.html:97
-msgid "Show keyboard"
+msgid "Show Keyboard"
 msgstr "Afficher le clavier"
 
 #: ../vnc.html:102
@@ -100,7 +100,7 @@ msgid "Extra keys"
 msgstr "Touches supplémentaires"
 
 #: ../vnc.html:102
-msgid "Show extra keys"
+msgid "Show Extra Keys"
 msgstr "Afficher les touches supplémentaires"
 
 #: ../vnc.html:107
@@ -192,19 +192,19 @@ msgid "Settings"
 msgstr "Paramètres"
 
 #: ../vnc.html:175
-msgid "Shared mode"
+msgid "Shared Mode"
 msgstr "Mode partagé"
 
 #: ../vnc.html:178
-msgid "View only"
+msgid "View Only"
 msgstr "Afficher uniquement"
 
 #: ../vnc.html:182
-msgid "Clip to window"
+msgid "Clip to Window"
 msgstr "Clip à fenêtre"
 
 #: ../vnc.html:185
-msgid "Scaling mode:"
+msgid "Scaling Mode:"
 msgstr "Mode mise à l'échelle :"
 
 #: ../vnc.html:187
@@ -212,11 +212,11 @@ msgid "None"
 msgstr "Aucun"
 
 #: ../vnc.html:188
-msgid "Local scaling"
+msgid "Local Scaling"
 msgstr "Mise à l'échelle locale"
 
 #: ../vnc.html:189
-msgid "Remote resizing"
+msgid "Remote Resizing"
 msgstr "Redimensionnement à distance"
 
 #: ../vnc.html:194
@@ -256,15 +256,15 @@ msgid "Path:"
 msgstr "Chemin :"
 
 #: ../vnc.html:231
-msgid "Automatic reconnect"
+msgid "Automatic Reconnect"
 msgstr "Reconnecter automatiquemen"
 
 #: ../vnc.html:234
-msgid "Reconnect delay (ms):"
+msgid "Reconnect Delay (ms):"
 msgstr "Délai de reconnexion (ms) :"
 
 #: ../vnc.html:239
-msgid "Show dot when no cursor"
+msgid "Show Dot when No Cursor"
 msgstr "Afficher le point lorsqu'il n'y a pas de curseur"
 
 #: ../vnc.html:244
@@ -292,7 +292,7 @@ msgid "Password:"
 msgstr "Mot de passe :"
 
 #: ../vnc.html:298
-msgid "Send credentials"
+msgid "Send Credentials"
 msgstr "Envoyer les identifiants"
 
 #: ../vnc.html:308

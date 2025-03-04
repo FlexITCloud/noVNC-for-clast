@@ -1,13 +1,13 @@
 /*
  * noVNC: HTML5 VNC client
- * Copyright (C) 2018 The noVNC authors
+ * Copyright (C) 2018 The noVNC Authors
  * Licensed under MPL 2.0 (see LICENSE.txt)
  *
  * See README.md for usage and integration instructions.
  */
 
 /*
- * Localization utilities
+ * Localization Utilities
  */
 
 export class Localizer {
